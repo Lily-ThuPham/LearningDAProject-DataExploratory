@@ -6,3 +6,4 @@ Welcome to my Data Analyst Exploratory Project. This initiative aims to achieve 
 - Skills Demonstration: Highlighting my expertise in SQL for querying and using Python for data cleaning, showcasing my analytical capabilities and technical competence.
 
 The project is presented as Jupyter Note book can be found here [link](EDAwithPython.ipynb)
+The queries to answer business questions can be found here [link](TurkishStoreRetails-EDA.sql)
